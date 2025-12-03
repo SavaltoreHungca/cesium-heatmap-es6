@@ -1,3 +1,10 @@
+// 直接在这里改最小圆圈 updateRadius(radius) {
+        radius = Math.max(radius, 50);
+
+
+
+
+
 /*
  * heatmap.js v2.0.0 | JavaScript Heatmap Library
  *
