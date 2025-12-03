@@ -1,5 +1,5 @@
 // 直接在这里改最小圆圈 updateRadius(radius) {
-        radius = Math.max(radius, 50);
+//         radius = Math.max(radius, 50);
 
 
 
